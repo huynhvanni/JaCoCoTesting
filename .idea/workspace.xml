@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5da6795d-ef88-4725-88a2-388384b34a8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2iAcweKNZr8Tq1FsYul6zhvSV6u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.beginsecure" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn jacoco:check" />
+      <command value="mvn jacoco:report" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StringClassTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beginsecure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beginsecure" />
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.StringClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClassTest.testEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beginsecure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beginsecure" />
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.StringClassTest" />
+      <option name="METHOD_NAME" value="testEmptyString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClassTest.testNullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beginsecure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beginsecure" />
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.StringClassTest" />
+      <option name="METHOD_NAME" value="testNullInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClassTest.testValidString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beginsecure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beginsecure" />
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.StringClassTest" />
+      <option name="METHOD_NAME" value="testValidString(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClassTest.testWhiteSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JaCoCoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beginsecure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beginsecure" />
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.StringClassTest" />
+      <option name="METHOD_NAME" value="testWhiteSpace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringClassTest" />
+        <item itemvalue="JUnit.StringClassTest.testWhiteSpace" />
+        <item itemvalue="JUnit.StringClassTest.testValidString" />
+        <item itemvalue="JUnit.StringClassTest.testEmptyString" />
+        <item itemvalue="JUnit.StringClassTest.testNullInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5da6795d-ef88-4725-88a2-388384b34a8b" name="Default Changelist" comment="" />
+      <created>1718937061670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718937061670</updated>
+      <workItem from="1718937064039" duration="8978000" />
+      <workItem from="1718948854529" duration="733000" />
+      <workItem from="1718950174605" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JaCoCoTesting$StringClassTest.ic" NAME="StringClassTest Coverage Results" MODIFIED="1718944683386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.beginsecure.*</FILTER>
+    </SUITE>
+  </component>
+</project>
